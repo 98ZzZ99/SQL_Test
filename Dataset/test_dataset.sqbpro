@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="test_dataset.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3198"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="Workers_20012025" custom_title="0" dock_id="1" table="4,16:mainWorkers_20012025"/><dock_state state="000000ff00000000fd00000001000000020000028700000213fc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000002870000011900ffffff000002580000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Workers_20012025" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="7" mode="1"/></sort><column_widths><column index="1" value="53"/><column index="2" value="169"/><column index="3" value="63"/><column index="4" value="55"/><column index="5" value="57"/><column index="6" value="29"/><column index="7" value="35"/><column index="8" value="29"/><column index="9" value="46"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (23483, 'Patricia Anderson', 'Female', '08:04', '13:06', 50, 87, 60, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (69973, 'Robert Anderson', 'Male', '08:06', '17:17', 34, 35, 15, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (56714, 'William Brown', 'Male', '10:22', '17:23', 30, 81, 3, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (53090, 'Linda Brown', 'Female', '10:02', '13:10', 37, 86, 3, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (32155, 'Linda Brown', 'Female', '12:55', '13:09', 32, 30, 15, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (50295, 'Robert Smith', 'Male', '19:19', '13:26', 61, 98, 5, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (33536, 'Elizabeth Taylor', 'Female', '12:50', '14:33', 48, 28, 21, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (67600, 'Robert Smith', 'Male', '10:24', '15:10', 13, 94, 45, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (51266, 'Michael Taylor', 'Male', '09:48', '16:22', 61, 41, 3, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (63079, 'Mary Brown', 'Female', '08:49', '15:57', 1, 23, 14, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (13501, 'Linda Taylor', 'Female', '11:12', '15:00', 70, 22, 8, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (66154, 'Jennifer Smith', 'Female', '12:34', '16:50', 62, 22, 7, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (57599, 'Jennifer Taylor', 'Female', '15:32', '14:44', 11, 70, 2, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (96413, 'Michael Taylor', 'Male', '09:24', '14:36', 51, 97, 32, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (62960, 'Patricia Johnson', 'Female', '11:09', '14:53', 56, 74, 13, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (82932, 'Michael Johnson', 'Male', '12:21', '06:44', 71, 44, 16, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (90232, 'Mary Johnson', 'Female', '11:12', '14:30', 74, 70, 50, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (22822, 'Jennifer Taylor', 'Female', '10:21', '17:00', 95, 59, 10, '');
+
+INSERT INTO Workers_20012025 (ID, Name, Gender, Start_Time, End_Time, Plan_Number, Real_Number, Qualified_Number, Others)
+VALUES (73693, 'Patricia Smith', 'Female', '11:44', '16:32', 92, 31, 23, '');
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
