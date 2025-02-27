@@ -1,5 +1,7 @@
 # SQL_Test
 
+# The .env file is not included
+
 I devide the work into two stages. In the first stage, I focused on generating JSON commands with LLM’s help and using tools to calculate SQL. In the second stage, I split the original tools (like KPITools) into flexible arithmetic operations and even tried calling LLM again to optimize the JSON commands.
 
 Since I was constantly adjusting and rewriting the code, many older versions were lost. I tried to recover the first stage’s results, the main program Review_03_04.py and its tool function Review_Tools_03_01.py, but they still need some modifications to run correctly.
